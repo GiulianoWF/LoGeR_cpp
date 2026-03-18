@@ -1,0 +1,25 @@
+ckpts/
+build/
+third_party/
+.cache/
+.claude/
+__pycache__
+.venv
+
+# Inference outputs
+output.ply
+output.pt
+output_points.npy
+output_points.pt
+output_conf.npy
+output_conf.pt
+output_images.npy
+output_images.pt
+output_poses.npy
+output_poses.pt
+trajectory.txt
+anchor_windows
+
+casa_vo.mp4
+casa.mp4
+reference
